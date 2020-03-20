@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectNook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title">หมูยิ้มของหนู</string>
+
+    <string name="facebook_app_id">1035930050112438</string> <string name="fb_login_protocol_scheme">fb1035930050112438</string>
+
+</resources>
